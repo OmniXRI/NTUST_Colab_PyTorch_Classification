@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1eEnKXiR-rvjvtHRzOIl4yBoSOvI-8Qy6
 
 # **Colab + PyTorch + Google Drive進行自定義模型影像分類推論**
-歐尼克斯實境互動工 作室 OmniXRI Jack 2020.12.08整理製作
+歐尼克斯實境互動工 作室 OmniXRI Jack 2020.12.18整理製作
 
 本範例從雲端下載資料集到虛擬機，再連接雲端硬碟Google Drive載入訓練好的模型並進行推論，主要使用PyTorch進行程式開發。
 
